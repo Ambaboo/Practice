@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C19A10EF1CDD3D8C00413B1E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C19A10EE1CDD3D8C00413B1E /* main.cpp */; };
+		C19A10EF1CDD3D8C00413B1E /* HelloWorld.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C19A10EE1CDD3D8C00413B1E /* HelloWorld.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		C19A10EB1CDD3D8C00413B1E /* Practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Practice; sourceTree = BUILT_PRODUCTS_DIR; };
-		C19A10EE1CDD3D8C00413B1E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		C19A10EE1CDD3D8C00413B1E /* HelloWorld.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = HelloWorld.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		C19A10ED1CDD3D8C00413B1E /* Practice */ = {
 			isa = PBXGroup;
 			children = (
-				C19A10EE1CDD3D8C00413B1E /* main.cpp */,
+				C19A10EE1CDD3D8C00413B1E /* HelloWorld.cpp */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C19A10EF1CDD3D8C00413B1E /* main.cpp in Sources */,
+				C19A10EF1CDD3D8C00413B1E /* HelloWorld.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
